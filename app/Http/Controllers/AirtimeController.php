@@ -30,4 +30,10 @@ class AirtimeController extends Controller
             echo $response;
 
     }
+
+
+
+    public function success(){
+        return view('airtime.success');
+    }
 }
