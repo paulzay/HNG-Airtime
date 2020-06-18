@@ -12,7 +12,7 @@
             href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;500;700&display=swap"
             rel="stylesheet"
         />
-        <link rel="stylesheet" href="main.css" />
+        <link rel="stylesheet" href="css/main.css" />
     </head>
     <body>
         <nav>
@@ -63,7 +63,7 @@
                 </div>
             </div>
             <div class="images">
-                <img src="./img/Rectangle 27.png" alt="image" />
+                <img src="/img/rec.png" alt="image" />
             </div>
         </main>
         <footer>

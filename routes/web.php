@@ -17,3 +17,4 @@ Route::get('/', function () {
 
 
 Route::get('/success', 'AirtimeController@success');
+Route::get('/error', 'AirtimeController@error');

@@ -36,4 +36,8 @@ class AirtimeController extends Controller
     public function success(){
         return view('airtime.success');
     }
+
+    public function error(){
+        return view('airtime.error');
+    }
 }
